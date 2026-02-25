@@ -1,2 +1,1 @@
-# mawari
-jj
+# MAWARI NODE
